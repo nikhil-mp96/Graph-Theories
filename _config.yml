@@ -1,1 +1,6 @@
+title: Graph Theory Distilled
+show_downloads: true
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  parse_block_html: true

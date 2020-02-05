@@ -1,0 +1,10 @@
+_layouts/
+_sass/
+_site/
+docs/
+assets/
+script/
+Gemfile
+Gemfile.lock
+jekyll-theme-cayman.gemspec
+.jekyll-cache/
